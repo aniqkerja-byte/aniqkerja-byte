@@ -1,141 +1,176 @@
-<h1 align="center">Hi, I'm Aniq 👋</h1>
+<!--
+  ┌─────────────────────────────────────────────────────────┐
+  │  Nak tau macam mana? assets/header.svg dalam repo ni.    │
+  │  Custom SVG + CSS keyframes. No library, no template.    │
+  └─────────────────────────────────────────────────────────┘
+-->
 
 <p align="center">
-  <b>Freelance Web Developer</b> · Founder of <a href="https://jombina.site">Jombina</a><br>
-  Building websites & systems for small businesses in Malaysia 🇲🇾
+  <img src="./assets/header.svg" width="100%" alt="Aniq — Freelance Web Developer, Founder of Jombina">
 </p>
+
+<p align="center">
+  <img src="./assets/marquee.svg" width="100%" alt="Tech stack">
+</p>
+
+<p align="center">
+  <a href="https://jombina.site"><img src="https://img.shields.io/badge/jombina.site-E8562F?style=for-the-badge&logoColor=white&logo=googlechrome"></a>
+  <a href="https://wa.me/60XXXXXXXXX"><img src="https://img.shields.io/badge/Hire_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.threads.net/@YOUR-HANDLE"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=E8562F&label=VISITORS">
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://jombina.site">
-    <img src="https://img.shields.io/badge/jombina.site-E8562F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/60XXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.threads.net/@YOUR-HANDLE">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=E8562F&center=true&vCenter=true&width=760&lines=Landing+pages+that+actually+convert.;E-commerce+with+local+payment+%26+courier.;Custom+CRMs+and+admin+panels.;Automation+that+saves+you+hours+weekly.;Let's+build+something+%F0%9F%9A%80" alt="What I build">
   </a>
 </p>
 
----
+<br>
 
-### 🚀 Open for Projects
-
-I run **Jombina**, a one-man web studio based in Johor, serving clients all over Malaysia. I handle projects end to end, from requirements gathering right down to deployment and handover.
-
-**What I build:**
-
-| | |
-|---|---|
-| 🖥️ **Landing Pages** | Fast, conversion-focused single pages |
-| 📄 **Multi-Page Websites** | Company profiles, agent sites, portfolios |
-| 🛒 **E-Commerce** | Online stores with local payment & courier integration |
-| ⚙️ **Custom Systems** | CRMs, admin panels, internal tools |
-| 🤖 **Automation** | Workflow automation & API integrations |
-
-> 💬 Got a project in mind? Reach out at **[jombina.site](https://jombina.site)** or drop me a message. Always happy to talk shop.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Tools & Deploy**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 📌 Featured Work
+## 🧩 What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**🟠 [Jombina](https://jombina.site)**
-
-Web development studio serving Malaysian SMEs. Landing pages, custom systems, automation.
-
-`Next.js` `Tailwind` `Supabase`
-
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="52"><br>
+<b>Websites</b><br>
+<sub>Landing pages, company profiles, agent sites</sub>
 </td>
-<td width="50%" valign="top">
-
-**📄 CekDoku**
-
-Free public PDF proofreading tool powered by AI. Zero data retention, no accounts needed.
-
-`Next.js` `Gemini API` `Tailwind`
-
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shopping%20Cart.png" width="52"><br>
+<b>E-Commerce</b><br>
+<sub>ToyyibPay, Billplz, EasyParcel integrated</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💼 Client Websites**
-
-Agent sites, company profiles, and e-commerce builds with payment gateway and courier integration.
-
-`Astro` `GSAP` `PHP`
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 Internal CRM**
-
-Lead tracking and project management system with semi-automated client reminders.
-
-`Next.js 14` `Supabase` `TypeScript`
-
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="52"><br>
+<b>Custom Systems</b><br>
+<sub>CRMs, admin panels, automation</sub>
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### 📊 GitHub Stats
+## 📊 The Numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&icon_color=E8562F&title_color=E8562F" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true&title_color=E8562F" alt="Top Languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8562F&icon_color=E8562F&text_color=C9C9D1&ring_color=E8562F">
+  <img height="170" src="https://github-readme-streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=0D1117&stroke=E8562F&ring=E8562F&fire=FF8A4C&currStreakLabel=E8562F&sideLabels=C9C9D1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B6B75">
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=E8562F&line=E8562F&point=FFFFFF&area=true&area_color=E8562F&hide_border=true&custom_title=Contribution%20Activity" width="100%">
+</p>
 
-### 💭 A Bit About Me
+<br>
 
-- 🔭 Currently building things at **Jombina**
-- 🌱 Deep into AI-assisted development workflows and self-hosting
-- ✍️ I write about tech, AI, and build-in-public on Threads & Instagram
-- 🏠 Running a home lab because why not
-- ⚡ Fun fact: I plan everything with a PRD before writing a single line of code
+## 🐍 Watch It Eat My Commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake-light.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake-dark.svg">
+  </picture>
+</p>
+
+<br>
+
+## 💼 Selected Work
+
+<details open>
+<summary><b>🟠 &nbsp;Jombina &nbsp;—&nbsp; jombina.site</b></summary>
+
+<br>
+
+One-man web studio serving Malaysian SMEs. End-to-end delivery from discovery call to deployment and handover.
+
+`Next.js` &nbsp;`Tailwind` &nbsp;`Supabase` &nbsp;`Vercel`
+
+</details>
+
+<details>
+<summary><b>📄 &nbsp;CekDoku &nbsp;—&nbsp; free AI PDF proofreader</b></summary>
+
+<br>
+
+Public tool that proofreads PDF documents using AI. Zero data retention, no accounts, no tracking. Also shipped a Windows 95 themed variant just for fun.
+
+`Next.js 14` &nbsp;`Gemini API` &nbsp;`Bauhaus design system`
+
+</details>
+
+<details>
+<summary><b>🏢 &nbsp;Client Websites &nbsp;—&nbsp; agent & business sites</b></summary>
+
+<br>
+
+Insurance agent sites, company profiles, and e-commerce builds with local payment gateway and courier automation wired in.
+
+`Astro` &nbsp;`GSAP` &nbsp;`PHP MVC` &nbsp;`EasyParcel API`
+
+</details>
+
+<details>
+<summary><b>⚙️ &nbsp;Internal CRM &nbsp;—&nbsp; lead & project tracking</b></summary>
+
+<br>
+
+Custom CRM for Jombina with lead pipeline, project stages, and semi-automated WhatsApp client reminders.
+
+`Next.js 14` &nbsp;`Supabase` &nbsp;`TypeScript`
+
+</details>
+
+<br>
+
+## 🧠 How I Work
+
+<details>
+<summary><b>Click sini kalau nak tau process aku</b></summary>
+
+<br>
+
+```
+  01  DISCOVERY      structured Q&A sampai betul-betul faham problem
+       ↓
+  02  PRD            detailed spec in markdown, phase by phase
+       ↓
+  03  BUILD          AI agents as the build layer, me as the architect
+       ↓
+  04  VALIDATE       test every phase before moving to the next
+       ↓
+  05  HANDOVER       deploy, document, train, done
+```
+
+Aku tak start coding sebelum ada PRD. Bunyi macam slow, tapi actually save banyak masa sebab tak payah rebuild benda yang salah scope.
+
+</details>
+
+<br>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8">
+</p>
+
+<br>
 
 ---
 
 <p align="center">
-  <i>Let's build something. 🚀</i>
+  <b>Got a project? Let's talk.</b><br>
+  <sub>
+    <a href="https://jombina.site">jombina.site</a> &nbsp;·&nbsp;
+    <a href="mailto:YOUR-EMAIL@example.com">email</a> &nbsp;·&nbsp;
+    <a href="https://wa.me/60XXXXXXXXX">whatsapp</a>
+  </sub>
+</p>
+
+<p align="center">
+  <sub><i>psst — the header up top is a hand-written SVG in <code>/assets</code>. Go read it. 👀</i></sub>
 </p>
