@@ -1,0 +1,42 @@
+name: Update Stats Card
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # setiap hari, 2 pagi waktu Malaysia
+  workflow_dispatch:        # boleh trigger manual dari tab Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_title=true&bg_color=0C0C10&icon_color=E8562F&text_color=BFBFC8&ring_color=E8562F&title_color=E8562F'
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Kalau nak tambah card bahasa, buang komen kat blok bawah ni
+      # dan tambah <img src="./assets/top-langs.svg"> dalam README.
+      #
+      # - name: Generate top languages card
+      #   uses: stats-organization/github-readme-stats-action@v2
+      #   with:
+      #     card: top-langs
+      #     options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=0C0C10&text_color=BFBFC8&title_color=E8562F'
+      #     path: assets/top-langs.svg
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "chore: update stats card" || exit 0
+          git push
