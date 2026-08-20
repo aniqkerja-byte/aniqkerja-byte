@@ -100,7 +100,7 @@ Aku tak start coding sebelum ada PRD. Bunyi slow, tapi jimat banyak masa sebab t
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniqkerja-byte&show_icons=true&hide_border=true&hide_title=true&bg_color=0C0C10&icon_color=E8562F&text_color=BFBFC8&ring_color=E8562F" width="49%">
+  <img src="./assets/stats.svg" width="49%" alt="GitHub stats">
 </p>
 
 <br>
